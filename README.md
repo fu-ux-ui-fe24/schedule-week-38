@@ -5,6 +5,8 @@
 
 Denna andra vecka i UX / UI Grunder kommer vi att fortsätta arbeta med prototyper i Figma för att verkligen bli vana vid att arbeta i det verktyget. Vi kommer repetera ganska mycket med hjälp av övningar, men även titta närmre på hur vi kan skapa interaktiva prototyper - en förutsättning för att kunna testa våra designförslag framöver.
 
+Boka handledning 18/9: https://docs.google.com/document/d/1vItRRQ25IPyJQGotuayESbxDl1OOq9SWrBvFigRw5q8/edit?usp=sharing
+
 ## Mål för veckan:
 1. Förståelse för hur Figma fungerar
 2. Kunna bygga en prototyp i Figma
