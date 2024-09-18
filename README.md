@@ -45,7 +45,7 @@ Boka handledning 18/9 (obligatoriskt): https://docs.google.com/document/d/1vItRR
 * [Font Pairing Generator](https://www.monotype.com/font-pairing)
 * [Mixfont](https://www.mixfont.com/)
 * [Best font size for website](https://www.impactplus.com/blog/best-font-size-for-website)
-* [Bad Interface Exercise]
+* [Bad Interface Exercise](https://userinyerface.com/)
 
 ### Övningar
 * [Gruppexamination](https://github.com/fu-ux-ui-fe24/exam-team-design-thinking-process/tree/main)
