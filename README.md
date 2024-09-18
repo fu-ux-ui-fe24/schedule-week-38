@@ -5,6 +5,8 @@
 
 Denna andra vecka i UX / UI Grunder kommer vi att fortsätta arbeta med prototyper i Figma för att verkligen bli vana vid att arbeta i det verktyget. Vi kommer repetera ganska mycket med hjälp av övningar, men även titta närmre på hur vi kan skapa interaktiva prototyper - en förutsättning för att kunna testa våra designförslag framöver.
 
+Vidare kommer vi ta ett steg över till UI och titta på hur saker som färg, layout och typografi påverkar användarens upplevelse av en webbplats.
+
 Boka handledning 18/9 (obligatoriskt): https://docs.google.com/document/d/1vItRRQ25IPyJQGotuayESbxDl1OOq9SWrBvFigRw5q8/edit?usp=sharing
 
 ## Mål för veckan:
